@@ -18,4 +18,4 @@ GIT HUB LINK
 
 The main files can be found here:
 
-https://github.com/Lancaster-Physics-PHYS389/phys389-2023-project-EdwardTAllen
+https://github.com/EdwardTAllen/Damped-pendulum/edit/main/README.txt
