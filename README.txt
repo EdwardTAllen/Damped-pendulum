@@ -18,4 +18,4 @@ GIT HUB LINK
 
 The main files can be found here:
 
-https://github.com/EdwardTAllen/Damped-pendulum/edit/main/README.txt
+https://github.com/EdwardTAllen/Damped-pendulum
